@@ -9,7 +9,7 @@
 <link>https://joeltekoniemi.github.io/Applied-Bioinformatics-Blog/</link>
 <atom:link href="https://joeltekoniemi.github.io/Applied-Bioinformatics-Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Joels blog for Applied Bioinformatics</description>
-<generator>quarto-1.8.25</generator>
+<generator>quarto-1.8.27</generator>
 <lastBuildDate>Sat, 11 Oct 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>MedBioInfo 2025</title>
